@@ -1,4 +1,3 @@
-# .github
 # Trendy Beat Network
 
 ## About
